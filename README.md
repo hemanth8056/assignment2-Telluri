@@ -33,6 +33,7 @@ South India connects me with the exquisitely architectured ancient temples and t
 | Tirupathi | 10 | 50$ |
 # Fvourite Quotes
 > Be The First Rather Than The Best ***Ali Baba***
+
 > Be Formless and Shape Less Like Water ***Bruce Lee***
 
 
