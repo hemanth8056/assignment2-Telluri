@@ -15,4 +15,11 @@ The authentic Hyderabadi biryani is meticulously prepared in the **Kutchi** (raw
     6. Bread
 1. Come home
 2. After coming home
+    * Brushing
+    * Bathing
+    * Getting Ready to College
+    * Breakfast
+    * Attending Class
+    * Return to Home
+
 
