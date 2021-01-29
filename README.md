@@ -31,6 +31,10 @@ South India connects me with the exquisitely architectured ancient temples and t
 | Kanyakumari | 24 | 100$ |
 | Mysore | 5 | 50$ |
 | Tirupathi | 10 | 50$ |
+# Fvourite Quotes
+> Be The First Rather Than The Best ***Ali Baba***
+> Be Formless and Shape Less Like Water ***Bruce Lee***
+
 
 
 
