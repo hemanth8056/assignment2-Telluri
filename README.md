@@ -56,6 +56,14 @@ system.out.println(a+b);
 }
 ```
 
+***
+
+# Favourite Places
+|Location | images |
+| --- | --- |
+|Tirpathi | ![click here to open](images1/lord_venkateswara.jpg)
+| kerala | ![clik here to open](images1/kerala.jpg)
+| mysore | ![clikopen](images1/mysore.jpg)
 
 
 
