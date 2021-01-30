@@ -63,8 +63,8 @@ https://www.javatpoint.com/simple-program-of-java
 |Location | images |
 | --- | --- |
 |Tirpathi | ![click here to open](images1/lord_venkateswara.jpg)
-| kerala | ![clik here to open](images1/kerala.jpg)
-| mysore | ![clik](images1/mysore.jpg)
+| kerala | ![click here to open](images1/kerala.jpg)
+| mysore | ![click](images1/mysore.jpg)
 
 
 
