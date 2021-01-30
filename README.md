@@ -63,7 +63,7 @@ system.out.println(a+b);
 | --- | --- |
 |Tirpathi | ![click here to open](images1/lord_venkateswara.jpg)
 | kerala | ![clik here to open](images1/kerala.jpg)
-| mysore | ![clikopen](images1/mysore.jpg)
+| mysore | ![clik](images1/mysore.jpg)
 
 
 
