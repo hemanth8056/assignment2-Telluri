@@ -47,7 +47,7 @@ South India connects me with the exquisitely architectured ancient temples and t
 # JAVA PROGRAMMING LANGUAGE
 
 #### simple code
-[Gowikki](https://en.wikipedia.org/wiki/Java_(programming_language))
+[Java wikki](https://en.wikipedia.org/wiki/Java_(programming_language))
 ```
 public static void main(String[] args){
 int a = 10;
