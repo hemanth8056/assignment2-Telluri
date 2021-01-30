@@ -47,14 +47,15 @@ South India connects me with the exquisitely architectured ancient temples and t
 # JAVA PROGRAMMING LANGUAGE
 
 #### simple code
-[Java wikki](https://en.wikipedia.org/wiki/Java_(programming_language))
+<https://en.wikipedia.org/wiki/Java_(programming_language)>
 ```
-public static void main(String[] args){
-int a = 10;
-int b = 5;
-system.out.println(a+b);
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
 }
 ```
+https://www.javatpoint.com/simple-program-of-java
 
 ***
 
