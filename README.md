@@ -42,6 +42,20 @@ South India connects me with the exquisitely architectured ancient temples and t
 
 > Be Formless and Shape Less Like Water ***Bruce Lee***
 
+***
+
+# JAVA PROGRAMMING LANGUAGE
+
+#### simple code
+[Gowikki](https://en.wikipedia.org/wiki/Java_(programming_language))
+```
+public static void main(String[] args){
+int a = 10;
+int b = 5;
+system.out.println(a+b);
+}
+```
+
 
 
 
