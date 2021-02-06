@@ -62,9 +62,9 @@ https://www.javatpoint.com/simple-program-of-java
 # Favourite Places
 |Location | images |
 | --- | --- |
-|Tirpathi | ![click here to open](images1/lord_venkateswara.jpg)
-| kerala | ![click here to open](images1/kerala.jpg)
-| mysore | ![click](images1/mysore.jpg)
+|Tirupathi | ![click here to open](images1/lord_venkateswara.jpg)
+| kerala | ![click to open](images1/kerala.jpg)
+| mysore | ![click here to open](images1/mysore.jpg)
 
 
 
